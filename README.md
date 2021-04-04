@@ -1,6 +1,6 @@
 - 👋 Hi, I’m olumide
 - 👀 I’m interested in front and backend web development
-- 💞️ I’m looking to collaborate with other developers/programmers
+- 💞️ I love collaborating with other developers/programmers
 - 📫 How to reach me ---- olumideuae@gmail.com
 
 <!---
